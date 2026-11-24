@@ -1,0 +1,16 @@
+[
+  {
+    "if_all": [
+      "university",
+      "campus"
+    ],
+    "then": "The document identifies an institution and provides campus-related information."
+  },
+  {
+    "if_all": [
+      "solar",
+      "planet"
+    ],
+    "then": "The Solar System includes the Sun and objects that orbit it, including planets."
+  }
+]

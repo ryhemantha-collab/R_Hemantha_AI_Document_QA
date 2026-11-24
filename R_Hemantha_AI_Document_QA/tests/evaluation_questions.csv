@@ -1,0 +1,13 @@
+question,expected_terms
+What is the university name?,ramaiah;university;applied;sciences
+Where is the university located?,bengaluru;karnataka;india
+When was the university established?,2013;established
+Which faculty includes computer science?,engineering;technology;computer;science
+What is artificial intelligence?,computer;science;intelligent
+What is a knowledge base?,structured;facts;inference
+What is rule based reasoning?,if-then;rules;conclusions
+What does a document question answering system do?,document;questions;knowledge
+What is the Solar System?,sun;objects;gravitationally
+How many planets orbit the Sun?,eight;planets;sun
+Which planet is third from the Sun?,earth;third;planet
+Which is the largest planet?,jupiter;largest;planet

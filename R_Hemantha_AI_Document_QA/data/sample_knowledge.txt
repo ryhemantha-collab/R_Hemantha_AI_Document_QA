@@ -1,0 +1,13 @@
+Ramaiah University of Applied Sciences is a private university located in Bengaluru, Karnataka, India.
+The university was established in 2013.
+The university includes academic schools and departments that offer undergraduate and postgraduate programmes.
+The Faculty of Engineering and Technology includes the Department of Computer Science and Engineering.
+The Bachelor of Technology programme develops technical knowledge, problem solving ability, and professional skills.
+Artificial Intelligence is a field of computer science concerned with systems that perform tasks associated with intelligent behaviour.
+A knowledge base stores structured facts that can be used by an inference system.
+Rule-based reasoning uses IF-THEN rules to derive conclusions from known facts.
+A document question answering system extracts information from a document and responds to questions using stored knowledge.
+The Solar System consists of the Sun and the objects gravitationally bound to it.
+Eight planets orbit the Sun.
+Earth is the third planet from the Sun.
+Jupiter is the largest planet in the Solar System.

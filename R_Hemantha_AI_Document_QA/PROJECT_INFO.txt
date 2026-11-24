@@ -1,0 +1,11 @@
+PROJECT: KnowSphere — AI Document Question Answering System
+STUDENT: R Hemantha
+REGISTER NUMBER: 25ETAI410054
+COURSE: AID201A — Artificial Intelligence
+COURSE LEADER: M Tanushri
+PROGRAMME: B.Tech. Semester 3 / 2025
+DEPARTMENT: Computer Science and Engineering
+INSTITUTION: Ramaiah University of Applied Sciences
+SUBMISSION DATE IN BRIEF: 20 November 2026
+CONSTRAINT: Do not use NLP or RAG.
+REPORT LIMIT: Maximum 6 pages.
